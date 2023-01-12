@@ -1,0 +1,6 @@
+G:\PRG\Pr11\Pr11\obj\Debug\netcoreapp3.1\Pr11.csprojAssemblyReference.cache
+G:\PRG\Pr11\Pr11\obj\Debug\netcoreapp3.1\Pr11.Form1.resources
+G:\PRG\Pr11\Pr11\obj\Debug\netcoreapp3.1\Pr11.csproj.GenerateResource.cache
+G:\PRG\Pr11\Pr11\obj\Debug\netcoreapp3.1\Pr11.AssemblyInfoInputs.cache
+G:\PRG\Pr11\Pr11\obj\Debug\netcoreapp3.1\Pr11.AssemblyInfo.cs
+G:\PRG\Pr11\Pr11\obj\Debug\netcoreapp3.1\Pr11.csproj.CoreCompileInputs.cache
